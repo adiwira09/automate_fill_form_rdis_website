@@ -7,6 +7,13 @@ Kekurangan
 2. Captcha isi manual
 3. Membuka banyak Chrome untuk meng-akali agar bisa pass captcha secara manual
 
+# Install ChromeDriver
+link : 
+```
+https://chromedriver.chromium.org/downloads
+```
+Sesuaikan Versi Chrome Browser dengan ChromeDriver
+
 # Installation Requirements
 ```
 pip install -r requirements.txt
