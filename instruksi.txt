@@ -1,0 +1,9 @@
+1. Download Python
+https://www.python.org/downloads/release/python-3120/
+
+2. Install Pip
+
+3. Install Requirements
+
+4. Download Exe
+https://drive.google.com/file/d/1a2yPS1E-SMNZvwuNLlISKbMyQHofVtGA/view?usp=sharing
