@@ -2,6 +2,10 @@
 https://www.python.org/downloads/release/python-3120/
 
 2. Install Pip
+https://bootstrap.pypa.io/get-pip.py
+python get-pip.py
+https://phoenixnap.com/kb/install-pip-windows
+
 
 3. Install Requirements
 
