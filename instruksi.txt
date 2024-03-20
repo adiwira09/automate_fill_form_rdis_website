@@ -6,10 +6,6 @@ https://www.python.org/downloads/release/python-3100/
 pip install -r requirements.txt
 or manual
 
-- Run Exe
-Running exe on folder exe
-rdis.3.10
-
 
 ## For Windows 7
 - Download and Install Python 
@@ -18,10 +14,6 @@ https://www.python.org/downloads/release/python-370/
 - Install Requirements
 pip install -r requirements.txt
 or manual
-
-- Run Exe
-Running exe on folder exe
-rdis.3.7
 
 *note for win 7*
 if error ssl => https://stackoverflow.com/questions/76187256/importerror-urllib3-v2-0-only-supports-openssl-1-1-1-currently-the-ssl-modu
