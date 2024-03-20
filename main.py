@@ -68,7 +68,7 @@ class DataRegistrationGUI:
         self.submit_button.grid(row=4, column=2, pady=10)
 
     # def add_creator_label(self):
-        creator_label = tk.Label(self.master, text="by Nugroho Adi")
+        creator_label = tk.Label(self.master, text="by adi.wiraa")
         creator_label.grid(row=5, column=1)
 
     def browse_file(self):
